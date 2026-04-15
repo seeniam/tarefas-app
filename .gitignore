@@ -1,0 +1,14 @@
+.next
+node_modules
+.env
+.env.local
+.env*.local
+service-account*.json
+*service-account*.json
+calm-bison-475211-g2-3018139f30fa.json
+dist
+coverage
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
